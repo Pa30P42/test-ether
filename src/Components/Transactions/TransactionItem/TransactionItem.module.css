@@ -1,0 +1,30 @@
+.table {
+  width: 1200px;
+  text-align: center;
+}
+.hash {
+  width: 265px;
+  overflow: hidden;
+}
+.block {
+  width: 100px;
+  overflow: hidden;
+}
+.age {
+  width: 100px;
+  overflow: hidden;
+}
+
+.from {
+  width: 265px;
+  overflow: hidden;
+}
+.to {
+  width: 265px;
+  overflow: hidden;
+}
+
+.value {
+  width: 100px;
+  overflow: hidden;
+}
